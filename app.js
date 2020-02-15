@@ -1,0 +1,2 @@
+const mul = a * b;
+
